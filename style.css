@@ -1,0 +1,61 @@
+body {
+    background-color: bisque;
+}
+
+.container, .container-1{
+    margin-bottom: 50px;
+}
+
+.container div,
+.container-1 div {
+    font-size: 20px;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.container div:nth-child(1),
+.container-1 div:nth-child(1) {
+    background-color: cadetblue;
+}
+
+.container div:nth-child(2),
+.container-1 div:nth-child(2) {
+    background-color: chocolate;
+}
+
+.container div:nth-child(3),
+.container-1 div:nth-child(3) {
+    background-color: darkcyan;
+}
+
+.container div:nth-child(4),
+.container-1 div:nth-child(4) {
+    background-color: darkmagenta;
+}
+
+.container div:nth-child(5),
+.container-1 div:nth-child(5) {
+    background-color: darkturquoise;
+}
+
+.container div:nth-child(6),
+.container-1 div:nth-child(6) {
+    background-color: darkkhaki;
+}
+.container div:nth-child(7),
+.container-1 div:nth-child(7) {
+    background-color: lawngreen;
+}
+.container div:nth-child(8),
+.container-1 div:nth-child(8) {
+    background-color: maroon;
+}
+.container div:nth-child(9),
+.container-1 div:nth-child(9) {
+    background-color: lightslategrey;
+}
+.container div:nth-child(10),
+.container-1 div:nth-child(10) {
+    background-color: fuchsia;
+}
